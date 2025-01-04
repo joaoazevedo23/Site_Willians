@@ -1,0 +1,16 @@
+$header_color: white;
+
+.header {
+    width: 100%;
+    height: 90px;
+    background-color: $header_color;
+    justify-content: space-between;
+    display: flex;
+    
+
+}
+
+.Img_Logo{
+    width: fit-content;
+    height: 100%;
+}
